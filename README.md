@@ -1,7 +1,15 @@
-### Hi there 👋
+### Olá pessoas! 👋
+
+Me chamo Matheus Lôbo, sou Engenheiro Mecatrônico com mestrado em andamento em Engenharia elétrica pela UFPE. 
+
+A linguagem que tenho mais programado ultimamente é o Python :snake:.
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thematheusls)](https://twitter.com/thematheusls)
 
 <!--
 **TheMatheusLs/TheMatheusLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https:)
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
