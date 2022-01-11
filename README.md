@@ -1,8 +1,20 @@
 ### Hi there! 👋
 
-My name is Matheus Lôbo, I am graduated in Mechatronics Engineering 🤖 and I have a master's degree in progress at UFPE 🎓.
+My name is Matheus Lôbo, I am graduated in Mechatronics Engineering 🤖 and I have a master's degree at UFPE 🎓.
 
-My favorite language at the moment is Python :snake:, but I also program: in C and C ++, for microcontrollers; C # and XML, for graphical interfaces; and I am studying Javascript and Java, HTML and CSS.
+<div align="center">
+  <a href="https://github.com/thematheusls"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thematheusls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusls&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+My favorite language at the moment is Python :snake:, but I also program: in Java, C and C ++, for microcontrollers; C # and XML, for graphical interfaces; and I am studying Javascript, HTML and CSS.
+<div style="display: inline_block">
+  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Matheus-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</div><br>
 
 I also really like to create 3D models using SolidWorks and Inventor.
 
@@ -18,9 +30,9 @@ ___
 
 ### Olá pessoas! 👋
 
-Me chamo Matheus Lôbo, sou Engenheiro Mecatrônico 🤖 com mestrado em andamento em Engenharia Elétrica pela UFPE 🎓. 
+Me chamo Matheus Lôbo, sou Engenheiro Mecatrônico 🤖 com mestrado em Engenharia Elétrica pela UFPE 🎓. 
 
-Minha linguagem favorita no momento é o Python :snake:, mas também programo: em C e C++, para microcontroladores; C# e XML, para interfaces gráficas; e estou estudando Javascript e Java, HTML e CSS. 
+Minha linguagem favorita no momento é o Python :snake:, mas também programo: em Java, C e C++, para microcontroladores; C# e XML, para interfaces gráficas; e estou estudando Javascript, HTML e CSS. 
 
 Também gosto muito de criar modelos 3D usando o SolidWorks e o Inventor.
 
