@@ -3,9 +3,10 @@
 My name is Matheus Lôbo, I am graduated in Mechatronics Engineering 🤖 and I have a master's degree at UFPE 🎓.
 
 <div align="center">
-  <a href="https://github.com/thematheusls"/>
+  <a href="https://github.com/thematheusls">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thematheusls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusls&layout=compact&langs_count=7&theme=dracula"/>
+   <a/>
 </div>
 
 My favorite language at the moment is Python :snake:, but I also program: in Java, C and C ++, for microcontrollers; C # and XML, for graphical interfaces; and I am studying Javascript, HTML and CSS.
