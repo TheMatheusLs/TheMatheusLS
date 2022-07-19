@@ -1,9 +1,8 @@
 <a href="https://matheuslobo.com"><img style="width: 100%;" src="https://i.ibb.co/K6rNrW3/Github-Banner-1.png" alt="Github-Banner" border="0"></a>
 
-<h1 class="color: #FDFDFD;" align="center">Hi 👋, I'm Matheus Lôbo</h1>
 <h3 align="center">I am graduated in Mechatronics Engineering 🤖 and I have a master's degree at UFPE 🎓.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: blue;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thematheusls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thematheusls" height="30" width="40" /></a>
 <a href="https://telegram.me/thematheusls" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="thematheusls" height="30" width="40" /></a>
@@ -17,9 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/thematheusls">
-  <img style="width: 45%; height: 200em" src="https://github-readme-stats.vercel.app/api?username=thematheusls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusls&layout=compact&langs_count=7&theme=dracula"/>
-  <img style="width: 45%;" src="https://github-readme-streak-stats.herokuapp.com/?user=thematheusls&theme=dracula" alt="thematheusls" />
+  <img style="width: 45%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=thematheusls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="width: 45%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusls&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="width: 45%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=thematheusls&theme=dracula" alt="thematheusls" />
    <a/>
 </div>
 
