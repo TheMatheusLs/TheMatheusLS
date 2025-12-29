@@ -7,14 +7,17 @@
 
   <h2>🤖 Mechatronics Engineer | M.Sc. at UFPE 🎓</h2>
   
-  <p>
-    Passionate about Robotics, Data Science, and Software Development. <br>
-    Creating solutions that bridge the physical and digital worlds.
+  <p style="font-size: 1.2rem;">
+    Passionate about <b>Robotics</b>, <b>Data Science</b>, and <b>Software Development</b>.<br>
+    <i>Creating solutions that bridge the physical and digital worlds.</i>
   </p>
 
-  <!-- WEBSITE BUTTON -->
+  <!-- BUTTONS -->
   <a href="https://matheuslobo.com">
-    <img src="https://img.shields.io/badge/Portfolio-matheuslobo.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-matheuslobo.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contato@matheuslobo.com">
+    <img src="https://img.shields.io/badge/Contact-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br /><br />
@@ -27,40 +30,56 @@
 
 </div>
 
-<hr />
+<br /><hr /><br />
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-
+<!-- TECH STACK -->
 <div align="center">
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+  
+  <p><b>Core Languages</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,matlab&theme=dark" alt="Languages" />
+  </p>
 
-| **Data Science & AI** | **Languages** | **Mobile & Game Dev** | **Tools & Electronics** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-free-trial/2017/inventor-2017-badge-150x150.png" width="40"/> |
+  <p><b>Data Science & AI</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pandas,sklearn,opencv,pytorch,tensorflow&theme=dark" alt="Data Science" />
+  </p>
 
+  <p><b>Web, Mobile & Game Dev</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,android,unity,flutter&theme=dark" alt="Mobile Web" />
+  </p>
+
+  <p><b>Tools, Electronics & OS</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,linux,arduino,raspberrypi,figma,mysql&theme=dark" alt="Tools" />
+  </p>
 </div>
 
-<br />
+<br /><hr /><br />
 
+<!-- STATS SECTION - STABLE VERSION -->
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 GitHub Performance</h3>
+  
+  <p>
+    <a href="https://github.com/thematheusls">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=thematheusls&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+    </a>
+    <a href="https://github.com/thematheusls">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusls&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Langs" />
+    </a>
+  </p>
   
   <a href="https://github.com/thematheusls">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thematheusls&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/thematheusls">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thematheusls&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/thematheusls">
-    <img src="https://streak-stats.demolab.com?user=thematheusls&theme=dracula&hide_border=true" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=thematheusls&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
   </a>
 </div>
 
-<br />
+<br /><br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thematheusls&label=Profile%20Views&color=0e75b6&style=flat-square" alt="thematheusls" />
-</p>
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thematheusls&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="Views" />
+</div>
